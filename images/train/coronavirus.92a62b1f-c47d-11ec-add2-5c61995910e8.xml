@@ -1,0 +1,26 @@
+<annotation>
+	<folder>coronavirus</folder>
+	<filename>coronavirus.92a62b1f-c47d-11ec-add2-5c61995910e8.jpg</filename>
+	<path>C:\Users\utkar\TensorFlow Object Detection\TFODCourse\Tensorflow\workspace\images\collectedimages\coronavirus\coronavirus.92a62b1f-c47d-11ec-add2-5c61995910e8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>coronavirus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>268</xmin>
+			<ymin>217</ymin>
+			<xmax>511</xmax>
+			<ymax>478</ymax>
+		</bndbox>
+	</object>
+</annotation>
